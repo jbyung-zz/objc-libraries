@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "UIMenuItem+CXAImageSupport"
+  s.name         = "UIMenuItem+CXImageSupport_jbyung"
   s.version      = "1.1.0"
   s.summary      = "UIMenuItem with Image Support"
   s.description  = <<-DESC
